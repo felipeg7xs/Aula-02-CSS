@@ -1,0 +1,25 @@
+body {
+    color: blue;
+       background-color: white;
+}
+
+h1 {
+      margin: 20px;
+}
+
+p {
+       margin: 20px;
+}
+
+ul {
+      background-color: aqua;
+        margin: 20px;
+         padding: 20px;
+}
+
+.capitais {
+       background-color: blueviolet;
+     color: red;
+     margin: 20px;
+     padding: 20px;
+}
